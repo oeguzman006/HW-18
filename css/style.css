@@ -1,11 +1,16 @@
+
 nav{
     float: right;
     background-color:#F0D2BC;
+    margin-top: 50px;
+    margin-right: 70px;
 }
 
 nav li{
     display:inline-block;
     margin-left: 50px;
+    margin-right: 20px;
+    padding-right:20px;
 }
 nav a{
     color: black;
@@ -22,6 +27,23 @@ nav a:hover{
     height: 600px;
     padding: 25px 25px 25px 25px;
 }
+
+.content{
+    background-color: #EEE6DD;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+h1{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+p{
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+
 .footer li{
     display: inline-block;
     font-family: 'Comfortaa', cursive;
