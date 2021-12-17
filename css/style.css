@@ -1,0 +1,45 @@
+nav{
+    float: right;
+    background-color:#F0D2BC;
+}
+
+nav li{
+    display:inline-block;
+    margin-left: 50px;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'Comfortaa', cursive;
+}
+nav a:hover{
+    color: #D7855A;
+}
+
+.herolmg{
+    height: 600px;
+    padding: 25px 25px 25px 25px;
+}
+.footer li{
+    display: inline-block;
+    font-family: 'Comfortaa', cursive;
+}
+p{
+    font-family: 'Comfortaa', cursive;
+}
+button{
+    font-family: 'Comfortaa', cursive;
+    background-color: #D7855A;
+    color: white;
+    border-radius: 8px;
+    border: 2px solid #ffffff;
+}
+.flex-container{
+    display: flow;
+    flex-direction: row-reverse;
+}
+.flex-container{
+    font-family: 'Comfortaa', cursive;
+}
